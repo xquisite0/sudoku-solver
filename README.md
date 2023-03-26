@@ -1,2 +1,2 @@
-# sudoku-solver
-C++ command line input application to solve sudoku puzzles
+# Sudoku Solver
+C++ Command-Line Program that takes in a sudoku puzzle and outputs the solution
