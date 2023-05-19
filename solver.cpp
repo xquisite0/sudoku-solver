@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 bool valid(vector<vector<char> >& b, int x, int y, char n) {
